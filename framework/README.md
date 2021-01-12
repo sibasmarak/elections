@@ -27,7 +27,7 @@
 ### `captions.py`
 | **Name of Function** | **Function's Job** |
 |:----------:|:---------:|
-| *`count_total_posts()`* | For each caption creates a dictionary of posts |
+| *`create_caption_dictionary()`* | For each caption creates a dictionary of posts |
 | *`find_all_captions()`* | Return a list of post's caption field for all input posts |
 
 ### `classifier.py`
