@@ -3,7 +3,7 @@
 The internship was under the guidance of following eminent people:
 - [Dr. Kiran Garimella](https://idss.mit.edu/staff/kiran-garimella/), IDSS, MIT, USA
 - [Prof. Aaditya Dar](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/aaditya-dar.html), ISB Hyderabad
-- [Ms. Vasundhara Sirnate](https://en.wikipedia.org/wiki/Vasundhara_Sirnate), The Polis Project
+- [Dr. Vasundhara Sirnate](https://en.wikipedia.org/wiki/Vasundhara_Sirnate), The Polis Project
 
 # Current Status
 ### Work done by [Siba Smarak Panigrahi](https://sibasmarak.github.io/) in the month of Dec 2020 - Jan 2021
